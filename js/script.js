@@ -9,7 +9,7 @@ $(document).ready(function() {
 							<td>${character.firstName}</td>
 							<td>${character.lastName}</td>
 							<td>${character.gender}</td>
-							<td>${character.house}</td>
+							<td>${character.village}</td>
 							<td>${character.occupation}</td>
 						</tr>
 					`);

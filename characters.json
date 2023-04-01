@@ -4,49 +4,49 @@
       "firstName": "Naruto",
       "lastName": "Uzumaki",
       "gender": "male",
-      "house": "leaf",
+      "village": "leaf",
       "occupation": "shinobi"
     },
     {
       "firstName": "Kakashi",
       "lastName": "Hatake",
       "gender": "male",
-      "house": "leaf",
+      "village": "leaf",
       "occupation": "sensai"
     },
     {
       "firstName": "Tsunade",
       "lastName": "",
       "gender": "female",
-      "house": "leaf",
+      "village": "leaf",
       "occupation": "hokage"
     },
     {
       "firstName": "Choji",
       "lastName": "Akimichi",
       "gender": "male",
-      "house": "leaf",
+      "village": "leaf",
       "occupation": "shinobi"
     },
     {
       "firstName": "Orochimaru",
       "lastName": "",
       "gender": "male",
-      "house": "leaf",
+      "village": "leaf",
       "occupation": "villan"
     },
     {
       "firstName": "Sakura",
       "lastName": "Haruno",
       "gender": "female",
-      "house": "leaf",
+      "village": "leaf",
       "occupation": "shinobi"
     },
     {
       "firstName": "Sasuke",
       "lastName": "Uchiha",
       "gender": "male",
-      "house": "leaf",
+      "village": "leaf",
       "occupation": "shinobi"
     }
   ]
