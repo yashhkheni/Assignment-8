@@ -1,0 +1,47 @@
+		table {
+			border-collapse: collapse;
+			width: 100%;
+		}
+		th, td {
+		text-align: left;
+		padding: 8px;
+		border: 1px solid black;
+		}
+
+	th {
+		background-color: #4CAF50;
+		color: white;
+	}
+
+	tr:nth-child(even) {
+		background-color: #f2f2f2;
+	}
+
+	input[type=text] {
+		padding: 6px;
+		border-radius: 4px;
+		box-sizing: border-box;
+		border: none;
+		margin-bottom: 10px;
+		width: 100%;
+	}
+
+	.filter-buttons {
+		display: flex;
+		justify-content: center;
+		margin-top: 10px;
+	}
+
+	.filter-buttons button {
+		background-color: #4CAF50;
+		color: white;
+		padding: 8px 16px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		margin-right: 10px;
+	}
+
+	.filter-buttons button.active {
+		background-color: #2E8B57;
+	}

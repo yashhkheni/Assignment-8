@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "firstName": "Naruto",
+      "lastName": "Uzumaki",
+      "gender": "male",
+      "house": "leaf",
+      "occupation": "shinobi"
+    },
+    {
+      "firstName": "Kakashi",
+      "lastName": "Hatake",
+      "gender": "male",
+      "house": "leaf",
+      "occupation": "sensai"
+    },
+    {
+      "firstName": "Tsunade",
+      "lastName": "",
+      "gender": "female",
+      "house": "leaf",
+      "occupation": "hokage"
+    },
+    {
+      "firstName": "Choji",
+      "lastName": "Akimichi",
+      "gender": "male",
+      "house": "leaf",
+      "occupation": "shinobi"
+    },
+    {
+      "firstName": "Orochimaru",
+      "lastName": "",
+      "gender": "male",
+      "house": "leaf",
+      "occupation": "villan"
+    },
+    {
+      "firstName": "Sakura",
+      "lastName": "Haruno",
+      "gender": "female",
+      "house": "leaf",
+      "occupation": "shinobi"
+    },
+    {
+      "firstName": "Sasuke",
+      "lastName": "Uchiha",
+      "gender": "male",
+      "house": "leaf",
+      "occupation": "shinobi"
+    }
+  ]
+}
